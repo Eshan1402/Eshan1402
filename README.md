@@ -1,7 +1,7 @@
  <h1 align ="center"># 💫 About Me: </h1>
 🔭 A passionate student who is always open to learn and innovate.<br>
 🌱 Currently learning **Full Stack Development with Node.js**<br>
-📫 How to reach me → [saxenaeshan31@gmail.com](mailto:saxenaeshan31@gmail.com)
+📫 How to reach me → saxenaeshan31@gmail.com
 
 ##<h2 align ="center"> 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saxenaeshan31@gmail.com)
