@@ -1,5 +1,6 @@
 # 💫 About Me:
 A passionate Student who is always open to Learn and Innovate<br>🌱 I’m currently learning **Full Stake Development with NodeJs<br>📫How to reach me -> saxenaeshan31@gmail.com<br>⚡ Fun fact **Fun fact: I speak fluent JavaScript… but my coffee still doesn’t compile.” ☕💻
+‹img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFsejZqbGlwbGRjb2J6bTA2MzhmOGdlaXB2ZmVmZWw3aWxwOXpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif">
 
 
 ## 🌐 Socials:
