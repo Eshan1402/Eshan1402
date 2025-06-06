@@ -2,7 +2,7 @@
  <p align ="center">
 🔭 A passionate student who is always open to learn and innovate.<br>
 🌱 Currently learning -> Full Stack Development with Node.js <br>
-📫 How to reach me → saxenaeshan31@gmail.com
+📫 How to reach me → eshanbsaxena@gmail.com
  </p>
 
 #<h2 align ="center"> 🌐 Socials:
